@@ -1,3 +1,3 @@
 __all__ = ['Q']
 
-from query import Q
+from .query import Q
